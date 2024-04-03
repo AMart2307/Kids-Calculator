@@ -1,3 +1,3 @@
 # Kids-Calculator
 Code for my Calculator Program
-This repo is for the calculator program for my Task 8 Assessment for Skills Network Software Development Level 3
+This Repo is for my calculator project in fulfilment of Week 8 of The Skills Network Level 3 Software development Skills Bootcamp.
